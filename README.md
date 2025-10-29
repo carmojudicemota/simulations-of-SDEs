@@ -1,6 +1,6 @@
 # Simulations of SDEs
 
-## 📌 Mini-project to better visualize some Stochastic Differential Equations <br>
+## 📌 Mini-project in Jupyter Notebook to better visualize some Stochastic Differential Equations <br>
 
 📈 Model overview: <br>
   ✏️ Ornstein-Uhlenbeck process <br>
