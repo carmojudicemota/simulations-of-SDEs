@@ -5,7 +5,7 @@
 📈 Model overview: <br>
   ✏️ Ornstein-Uhlenbeck process <br>
   ✏️ Gompertz/Fox process <br>
-  ✏️ Black-Scholes process (Geometric Brownian Motion) <br>
+  ✏️ Geometric Brownian Motion (Black-Scholes) <br>
 
 ⚙️ Numerical method used: Euler-Maruyama Method 
   
