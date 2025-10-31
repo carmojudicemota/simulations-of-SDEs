@@ -9,6 +9,6 @@
 
 ⚙️ Numerical method used: Euler-Maruyama Method 
   
-📖 I have additionally added a small and informal analysis interpreting the results obtained
+📖 I have additionally added a small and informal analysis interpreting the results obtained <br>
 ⚠️ This document may contain errors for which I take full responsibility
 
